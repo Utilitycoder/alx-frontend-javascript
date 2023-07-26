@@ -3,8 +3,9 @@
   "scripts": {
     "test": "jest",
     "build": "babel src --out-dir dist",
-    "dev": "node"
+    "dev": "node --experimental-specifier-resolution=node"
   },
+
   "devDependencies": {
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9",
@@ -13,3 +14,4 @@
     "eslint": "^8.45.0"
   }
 }
+
