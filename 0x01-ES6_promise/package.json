@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "build": "babel src --out-dir dist",
+    "dev": "node"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1",
+    "eslint": "^8.45.0"
+  }
+}
