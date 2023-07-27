@@ -4,4 +4,4 @@ Welcome to the ALX Frontend JavaScript repository! This repository is designed t
 
 ## Introduction
 
-ALX Frontend JavaScript repository is a part of the ALX Frontend specialization program, providing a platform for learners to work on JavaScript-related tasks and projects. JavaScript is a fundamental programming language for web development, and this repository aims to offer a hands-on learning experience to the learners.
+ALX Frontend JavaScript repository is a part of the ALX Frontend specialization program, providing a platform for learners to work on JavaScript-related tasks and projects. JavaScript is a fundamental programming language for web development, and this repository aims to offer a hands-on learning experience to learners.
