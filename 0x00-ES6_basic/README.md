@@ -24,8 +24,9 @@ Each feature is explained in detail, providing examples and demonstrations of it
 
 ## Tasks :page_with_curl:
 
-- **0. Constant
-  - [0-constant.js](./0-constants.js): learned how to instantiate variables using const and let. Please note that I have been writing javascript for as long as I can remember. This is just a required task in fulfilment of ALX frontend specialization task.
+* **0. Constant
+  * [0-constant.js](./0-constants.js): learned how to instantiate variables using const and let. Please note that I have been writing javascript for as long as I can remember. This is just a required task in fulfilment of ALX frontend specialization task.
 
-* **1. [Block Scope](./1-block-scoped.js): Wrote a function that explains hoisting
+* **1. Block Scope
+  * [1-block-scoped](./1-block-scoped.js): Wrote a function that explains hoisting
 
