@@ -56,5 +56,15 @@ Each feature is explained in detail, providing examples and demonstrations of it
 * **10. For...of Loops
   * [10-loops.js](./10-loops.js): Wrote a function that uses ES6’s for...of operator
 
-* **11.
+* **11. Iterator
+  * [11-createEmployeesObject.js](./11-createEmployeesObject.js): Function that receives two arguments and iterates over it to create and object
+
+* **12. Create report
+  * [](./12-createReportObject.js): function returns an object containing the key allEmployees and a method property called `getNumberOfDepartments`.
+
+* **13. Object Iteration
+  * [100-createIteratorObject.js](./100-createIteratorObject.js): Created an object iterator
+
+* **14. Object Iterator
+  * [101-iterateThroughObject.js](./101-iterateThroughObject.js): Created another object iterator
 
