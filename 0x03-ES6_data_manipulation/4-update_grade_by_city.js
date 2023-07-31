@@ -1,5 +1,5 @@
 /**
- *
+ * updateStudentGradeByCity - Updates the grade of a student for a given city
  * @param {Array} getListStudents - Array of students
  * @param {string} city - City to filter by
  * @param {Array} newGrades - Array of objects with studentId and grade
