@@ -4,7 +4,7 @@
  * @returns studentIds - Array of student ids
  */
 export default function getListStudentIds(getListStudents) {
-    // Check if getListStudents is an array, if not, return an empty array
+  // Check if getListStudents is an array, if not, return an empty array
   if (!Array.isArray(getListStudents)) {
     return [];
   }

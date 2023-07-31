@@ -1,7 +1,7 @@
 /**
  * getStudentIdsSum - Returns the sum of all student ids
  * @param {array} getListStudents - Array of students
- * @returns 
+ * @returns
  */
 export default function getStudentIdsSum(getListStudents) {
   // Check if getListStudents is an array, if not, return an empty array
